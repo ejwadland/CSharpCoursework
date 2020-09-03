@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lookup", "Lookup\Lookup.csproj", "{BDBF92C0-FA4F-4B4A-A1E8-F375FB8631EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBF92C0-FA4F-4B4A-A1E8-F375FB8631EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBF92C0-FA4F-4B4A-A1E8-F375FB8631EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBF92C0-FA4F-4B4A-A1E8-F375FB8631EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBF92C0-FA4F-4B4A-A1E8-F375FB8631EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
